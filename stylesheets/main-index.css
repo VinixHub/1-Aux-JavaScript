@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+#examples-main {
+    background: linear-gradient(#D7CEB2, #A59E8C);
+    border-bottom: 1px solid black;
+    height: 50rem;
+    padding: 1rem;
+
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-template-rows: auto auto auto;
+    gap: 1rem;
+}
+
+.data-container {
+    font-family: 'Courier New', Courier, monospace;
+    border: 1px solid black;
+    background-color: #DDF2EB;
+}

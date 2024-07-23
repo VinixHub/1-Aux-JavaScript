@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+body { margin: 0px; padding: 0px; }
+
+header {
+    padding: 20px 10px 20px 10px;
+    text-align: center;
+    border-bottom: 1px solid black;
+    background: linear-gradient(#9AD4D6, #DBCBD8);
+}
+
+#header-title {
+    font-family: "Raleway";
+    margin: 0px;
+    background: linear-gradient(to right,#030027, #DC9E82);
+    background-clip: text;
+    color: transparent;
+}
+
